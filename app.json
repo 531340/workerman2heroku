@@ -1,0 +1,9 @@
+{
+  "name": "workerman2heroku",
+  "description": "workerman聊天室2heroku]",
+  "website": "https://github.com/doudoubinga/",
+  "repository": "https://github.com/doudoubinga/workerman2heroku",
+  "success_url": "kedou.html",
+  "env":{
+  }
+}
